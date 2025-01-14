@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameZone.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\35f472dc-37f2-41f5-ae9b-1423e1d326c0.png",
+      "PackagePath": "staticwebassets\\assets\\images\\35f472dc-37f2-41f5-ae9b-1423e1d326c0.png"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\83f13a4d-afc1-4c17-aa87-6329949a4bcc.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\83f13a4d-afc1-4c17-aa87-6329949a4bcc.jpg"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\90698172-6093-42d2-9748-5cff109ac42d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\90698172-6093-42d2-9748-5cff109ac42d.jpg"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\c2fca701-aa49-4067-8733-7530f36d12a1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c2fca701-aa49-4067-8733-7530f36d12a1.png"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\f2222e3f-b52b-4398-bf5a-a9d8335e9bd4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f2222e3f-b52b-4398-bf5a-a9d8335e9bd4.png"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\assets\\images\\f8d9734c-172b-4bee-bdba-9a72700722ee.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\f8d9734c-172b-4bee-bdba-9a72700722ee.jpg"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\js\\filesize_validator.js",
+      "PackagePath": "staticwebassets\\js\\filesize_validator.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\js\\game-index.js",
+      "PackagePath": "staticwebassets\\js\\game-index.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\.net\\Projects\\MVC Projects\\GameZone(CRUD Operation)\\GameZone\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameZone.props",
+      "PackagePath": "build\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameZone.props",
+      "PackagePath": "buildMultiTargeting\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameZone.props",
+      "PackagePath": "buildTransitive\\GameZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
